@@ -9,7 +9,7 @@ echo "Port: $port"
 echo "Random URL: $rnd_curl"
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-bash <(curl -Ls https://raw.githubusercontent.com/zerdicorp/3x-ui-setup/main/3x-ui-autossl.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/x3-ui-setup/refs/heads/main/x3-ui-autossl.sh?token=GHSAT0AAAAAACW4LBNB5HHIB3IMQWUSMJJ6ZX2HZDQ)
 
 server_ip=$(curl -4 -s ifconfig.me)
 echo "https://$server_ip:$port/$rnd_curl"

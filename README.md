@@ -5,5 +5,5 @@
 ## How to run?
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/zerdicorp/3x-ui-setup/main/3x-ui-setup.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/x3-ui-setup/refs/heads/main/x3-ui-setup.sh?token=GHSAT0AAAAAACW4LBNA3P7DBUVEH56BLIR4ZX2H2CA)
 ```
